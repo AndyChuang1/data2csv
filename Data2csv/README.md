@@ -1,9 +1,9 @@
 ﻿# Data2csv
-The main purpose of this project is how to download CSV files in front-end with restfulAPI.
+The main purpose of this project is how to download CSV files in front-end with restful API.
 
 There are two ways we can achieve our goal :
-* `first`: In the server site, setHeader (csv) on response, you can download CSV files in frond-end directly using redirct to API URL.
-* `second`: In the server site, API response CSV string, we need to conver string to CSV using blob or encodeURI.
+* `first`: In the server site, setHeader (csv) on response, you can download CSV files in frond-end directly using redirect to API URL.
+* `second`: In the server site, API response CSV string, we need to convert the string to CSV using blob or encodeURI.
 *Important js and html have README.md on each folder*
 ## Build Setup
 
